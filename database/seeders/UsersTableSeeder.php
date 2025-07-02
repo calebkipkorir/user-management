@@ -2,7 +2,7 @@
 
 namespace Database\Seeders;
 
-
+// This is a comment added to UsersTableSeeder
 
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
